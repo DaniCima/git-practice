@@ -1,3 +1,5 @@
+**not prompted for username and password when pushing, 
+**can't change the password for the token on the credential manager.
 Name: Dani Ironhacker..
 Age: 29..
 Favorite Color: Sea Blue..
